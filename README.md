@@ -2,7 +2,7 @@
 
 <h2>Projeto realizado do curso de JavaScript da B7Web</h2>
 <br>
-<p>Criamos uma urna eletrônica com a tecnologia JavaScript, onde conseguimos votar, inserir digitos, limpar a tela com o botão corrige, botão branco (nulo) e o botão confirma que envia os numeros (CONFIRMA)</p>
+<p>Criamos uma urna eletrônica com a tecnologia JavaScript, onde conseguimos votar, inserir digitos, limpar a tela com o botão corrige, botão branco (nulo) e o botão confirma que envia os numeros (CONFIRMA) (Em andamento)</p>
 <p><i>(Projeto em andamento).</i></p>
 <hr>
 <h3>Tecnologias utilizadas</h3>
